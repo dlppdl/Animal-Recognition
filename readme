@@ -1,0 +1,26 @@
+Welcome to the Animal Recognition System Using CNN
+This is the minor project for the Bachelor of Computer Engineering, NCE Nepal
+This is the collective work of Dilip Paudel, Rajan Pandey, Diwash Bhandari and Sailesh Sapkota.
+We got 79.67% accuracy.
+
+Follow these steps to run this system on your computer.
+1. Make sure you have python3 installed.
+   Necessary libraries to run are:
+
+    tkinter(For GUI(Graphical User Interface))
+    PIL(Pillow Library for Image operation in GUI)
+    cv2(For preprocessing the image in CNN)
+    numpy(For basic math operation
+    keras(To load model of CNN)
+
+2. Download all the files from this repository in same directory on your computer.
+
+3. Run TkinterGUI.py from terminal or third-party softwares as you wish.
+
+4. You see the little button that says Select Image, click that and choose any image file from your computer.
+
+5. Now you see two button one is HomePage from where you can go back to homepage and select another image and another is Recognize to reconition of your choice of image.
+
+6. Good Luck!
+
+If you got any questions feel free to reach me.
